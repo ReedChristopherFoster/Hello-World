@@ -18,8 +18,9 @@ This is my sample repository where I am practicing and learning how to use HitHu
 There is no program necessary to run for this project.
 
 # 4. Files Used
-Here I am going to try to insert a picture
-![alt text](![Uploading Ski Picture.jpg…]()
+Here I am going to try to insert a link to TradingView.
+[title](https://www.tradingview.com/)
+
 
 # 5. Additional Documentation
 
