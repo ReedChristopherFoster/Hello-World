@@ -19,7 +19,7 @@ There is no program necessary to run for this project.
 
 # 4. Files Used
 Here I am going to try to insert a picture
-![alt text](Ski Picture.jpg)
+![alt text](![Uploading Ski Picture.jpg…]()
 
 # 5. Additional Documentation
 
