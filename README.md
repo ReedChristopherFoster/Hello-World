@@ -22,7 +22,7 @@ Here I am going to try to insert a link to TradingView:
 [Link to TradingView](https://www.tradingview.com/)
 
 ###### 5. Additional Documentation
-There is no additional necessary additional documentation within this repository. Although, her is the use of the **BOLD** syntax option.
+There is no additional necessary additional documentation within this repository. Although, here is the use of the **BOLD** syntax option.
 
 ###### 6. Versioning
 In the future, within this section I will discuss any versioning used especially if I am making major changes throughout the process of my code.
