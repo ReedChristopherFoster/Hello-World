@@ -12,7 +12,7 @@
 Hello world, from *Reed*.
 
 # 2. Description
-This is my sample repository where I am practicing and learning how to use HitHub. In this repository I am going to try a few things out with various syntax options.
+This is my sample repository where I am practicing and learning how to use GitHub. In this repository I am going to try a few things out with various syntax options.
 
 # 3. How to Run Program
 There is no program necessary to run for this project. In the future I will explain how to run the program and what files need to be available.
