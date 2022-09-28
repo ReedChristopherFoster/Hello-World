@@ -1,5 +1,5 @@
-## Hello-World
-# Table of contents
+###### Hello-World
+## Table of contents
 1. Project Title 
 2. Description 
 3. How to Run Program 
